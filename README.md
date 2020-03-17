@@ -1,2 +1,3 @@
-# bulma-interactions
-Snippets for Bulma interactivity
+# Bulma interactions
+
+Some small pieces of modern vanilla JS code to make Bulma components interactive.
